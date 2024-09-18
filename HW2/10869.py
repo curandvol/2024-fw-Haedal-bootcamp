@@ -4,5 +4,4 @@ print(A+B)
 print(A-B)
 print(A*B)
 print("%.d"%(A/B))
-
 print(A%B)

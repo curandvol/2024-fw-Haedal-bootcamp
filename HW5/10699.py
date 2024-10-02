@@ -7,9 +7,4 @@ c = str(now.day)
 year_a = a.zfill(4)
 month_b = b.zfill(2)
 day_c = c.zfill(2)
-print(day_c)
 print("{0}-{1}-{2}".format(year_a, month_b, day_c))
-
-
-
-
